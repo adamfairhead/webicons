@@ -1,0 +1,82 @@
+/* FC Webicons by Fairhead Creative http://fairheadcreative.com */
+
+.fc-webicon { display: inline-block; background-size: 100%; width: 30px; height: 30px; text-indent: -999em; text-align: left; -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 5px; }
+.fc-webicon:hover { margin: -1px 0 1px; -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); }
+.fc-webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.fc-webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
+
+/* Behance */
+.no-svg .fc-webicon.behance { background: url("images/fc-webicon-behance.png"); }
+.svg .fc-webicon.behance { background: url("images/fc-webicon-behance.svg"); }
+
+/* Dribbble */
+.no-svg .fc-webicon.dribbble { background: url("images/fc-webicon-dribbble.png"); }
+.svg .fc-webicon.dribbble { background: url("images/fc-webicon-dribbble.svg"); }
+
+/* Dropbox */
+.no-svg .fc-webicon.dropbox { background: url("images/fc-webicon-dropbox.png"); }
+.svg .fc-webicon.dropbox { background: url("images/fc-webicon-dropbox.svg"); }
+
+/* Facebook */
+.no-svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook.png"); }
+.svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook.svg"); }
+
+/* Flickr */
+.no-svg .fc-webicon.flickr { background: url("images/fc-webicon-flickr.png"); }
+.svg .fc-webicon.flickr { background: url("images/fc-webicon-flickr.svg"); }
+
+/* Github */
+.no-svg .fc-webicon.github { background: url("images/fc-webicon-github.png"); }
+.svg .fc-webicon.github { background: url("images/fc-webicon-github.svg"); }
+
+/* Google+ */
+.no-svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus.png"); }
+.svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus.svg"); }
+
+/* iCloud */
+.no-svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud.png"); }
+.svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud.svg"); }
+
+/* LinkedIn */
+.no-svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin.png"); }
+.svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin.svg"); }
+
+/* MSN */
+.no-svg .fc-webicon.msn { background: url("images/fc-webicon-msn.png"); }
+.svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }
+
+/* Rdio */
+.no-svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.png"); }
+.svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.svg"); }
+
+/* RSS */
+.no-svg .fc-webicon.rss { background: url("images/fc-webicon-rss.png"); }
+.svg .fc-webicon.rss { background: url("images/fc-webicon-rss.svg"); }
+
+/* Skitch */
+.no-svg .fc-webicon.skitch { background: url("images/fc-webicon-skitch.png"); }
+.svg .fc-webicon.skitch { background: url("images/fc-webicon-skitch.svg"); }
+
+/* Skype */
+.no-svg .fc-webicon.skype { background: url("images/fc-webicon-skype.png"); }
+.svg .fc-webicon.skype { background: url("images/fc-webicon-skype.svg"); }
+
+/* Twitter */
+.no-svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter.png"); }
+.svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter.svg"); }
+
+/* Vimeo */
+.no-svg .fc-webicon.vimeo { background: url("images/fc-webicon-vimeo.png"); }
+.svg .fc-webicon.vimeo { background: url("images/fc-webicon-vimeo.svg"); }
+
+/* YouTube */
+.no-svg .fc-webicon.youtube { background: url("images/fc-webicon-youtube.png"); }
+.svg .fc-webicon.youtube { background: url("images/fc-webicon-youtube.svg"); }
+
+/* YouVersion */
+.no-svg .fc-webicon.youversion { background: url("images/fc-webicon-youversion.png"); }
+.svg .fc-webicon.youversion { background: url("images/fc-webicon-youversion.svg"); }
+
+/* Zerply */
+.no-svg .fc-webicon.zerply { background: url("images/fc-webicon-zerply.png"); }
+.svg .fc-webicon.zerply { background: url("images/fc-webicon-zerply.svg"); }

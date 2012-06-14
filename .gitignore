@@ -1,4 +1,7 @@
 # Numerous always-ignore extensions
+*.ai
+*.zip
+*.psd
 *.diff
 *.err
 *.orig

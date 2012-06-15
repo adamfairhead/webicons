@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.9995" y1="0" x2="23.9995" y2="48.0005">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="176 76 48 48" enable-background="new 176 76 48 48" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="73.043" y1="79.3979" x2="73.043" y2="82.1597" gradientTransform="matrix(17.3612 0 0 17.3612 -1068.1182 -1302.4458)">
 	<stop  offset="0" style="stop-color:#4B71B8"/>
 	<stop  offset="1" style="stop-color:#293F7E"/>
 </linearGradient>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M48,42c0,3.313-2.687,6-6,6H6c-3.313,0-6-2.687-6-6V6
-	c0-3.313,2.687-6,6-6h36c3.313,0,6,2.687,6,6V42z"/>
-<path fill="#293F7E" d="M40.033,7.119c0,0-15.203-2.329-15.203,12.936h-4.954v6.986h5.084V45.95h8.02V26.911h6.971v-7.115h-6.841
-	c0,0-1.494-6.291,6.817-6.339L40.033,7.119z"/>
-<path opacity="0.3" fill="#FFFFFF" enable-background="new    " d="M47.5,35.75v5.875c0,3.244-2.631,5.875-5.875,5.875H6.375
-	c-3.244,0-5.875-2.631-5.875-5.875V35.75H47.5z"/>
-<path fill="#FFFFFF" d="M40.033,8.669c0,0-15.203-2.329-15.203,12.936h-4.954v6.985h5.084V47.5h8.02V28.461h6.971v-7.114h-6.841
-	c0,0-1.494-6.292,6.817-6.339L40.033,8.669z"/>
+<path fill="url(#SVGID_1_)" d="M224,117.957c0,3.308-2.688,5.993-6,5.993h-36c-3.313,0-6-2.686-6-5.993V81.994
+	c0-3.31,2.687-5.994,6-5.994h36c3.312,0,6,2.684,6,5.994V117.957z"/>
+<path opacity="0.3" fill="#FFFFFF" enable-background="new    " d="M224,114.839v3.118c0,3.308-2.688,5.993-6,5.993h-36
+	c-3.313,0-6-2.686-6-5.993v-3.118H224z"/>
+<path fill="#FFFFFF" d="M213.285,85.37c0,0-3.706,0-6.166,0c-3.659,0-7.729,1.539-7.729,6.843c0.018,1.848,0,3.618,0,5.61h-4.233
+	v6.736h4.364v19.392h8.019v-19.52h5.293l0.479-6.627h-5.91c0,0,0.013-2.948,0-3.804c0-2.096,2.181-1.976,2.312-1.976
+	c1.038,0,3.056,0.003,3.574,0V85.37H213.285z"/>
 </svg>

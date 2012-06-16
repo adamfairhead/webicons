@@ -9,6 +9,10 @@
 .no-svg .fc-webicon.behance { background: url("images/fc-webicon-behance.png"); }
 .svg .fc-webicon.behance { background: url("images/fc-webicon-behance.svg"); }
 
+/* Creative Cloud */
+.no-svg .fc-webicon.creativecloud { background: url("images/fc-webicon-creativecloud.png"); }
+.svg .fc-webicon.creativecloud { background: url("images/fc-webicon-creativecloud.svg"); }
+
 /* Dribbble */
 .no-svg .fc-webicon.dribbble { background: url("images/fc-webicon-dribbble.png"); }
 .svg .fc-webicon.dribbble { background: url("images/fc-webicon-dribbble.svg"); }
@@ -16,6 +20,10 @@
 /* Dropbox */
 .no-svg .fc-webicon.dropbox { background: url("images/fc-webicon-dropbox.png"); }
 .svg .fc-webicon.dropbox { background: url("images/fc-webicon-dropbox.svg"); }
+
+/* Evernote */
+.no-svg .fc-webicon.evernote { background: url("images/fc-webicon-evernote.png"); }
+.svg .fc-webicon.evernote { background: url("images/fc-webicon-evernote.svg"); }
 
 /* Facebook */
 .no-svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook.png"); }
@@ -45,6 +53,10 @@
 .no-svg .fc-webicon.msn { background: url("images/fc-webicon-msn.png"); }
 .svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }
 
+/* Pinterest */
+.no-svg .fc-webicon.pinterest { background: url("images/fc-webicon-pinterest.png"); }
+.svg .fc-webicon.pinterest { background: url("images/fc-webicon-pinterest.svg"); }
+
 /* Rdio */
 .no-svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.png"); }
 .svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.svg"); }
@@ -60,6 +72,10 @@
 /* Skype */
 .no-svg .fc-webicon.skype { background: url("images/fc-webicon-skype.png"); }
 .svg .fc-webicon.skype { background: url("images/fc-webicon-skype.svg"); }
+
+/* Spotify! */
+.no-svg .fc-webicon.spotify { background: url("images/fc-webicon-spotify.png"); }
+.svg .fc-webicon.spotify { background: url("images/fc-webicon-spotify.svg"); }
 
 /* StumbleUpon! */
 .no-svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.png"); }

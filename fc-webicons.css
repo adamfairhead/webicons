@@ -61,6 +61,10 @@
 .no-svg .fc-webicon.skype { background: url("images/fc-webicon-skype.png"); }
 .svg .fc-webicon.skype { background: url("images/fc-webicon-skype.svg"); }
 
+/* StumbleUpon! */
+.no-svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.png"); }
+.svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.svg"); }
+
 /* Twitter */
 .no-svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter.png"); }
 .svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter.svg"); }

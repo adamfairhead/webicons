@@ -7,7 +7,7 @@ I'd love you to link back to http://fairheadcreative.com somewhere on the sites 
 
 If you have icon suggestions, check the issue queue for "Icon Suggestions".
 
-Enjoy the icons!
+Enjoy webicons!
 
 
 Fairhead Creative

@@ -49,6 +49,10 @@
 .no-svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin.png"); }
 .svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin.svg"); }
 
+/* Mail */
+.no-svg .fc-webicon.mail { background: url("images/fc-webicon-mail.png"); }
+.svg .fc-webicon.mail { background: url("images/fc-webicon-mail.svg"); }
+
 /* MSN */
 .no-svg .fc-webicon.msn { background: url("images/fc-webicon-msn.png"); }
 .svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }

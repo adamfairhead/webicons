@@ -137,6 +137,13 @@
 .no-svg .fc-webicon.vimeo.small { background: url("images/fc-webicon-vimeo-s.png"); }
 .svg .fc-webicon.vimeo { background: url("images/fc-webicon-vimeo.svg"); }
 
+/* Wordpress */
+.no-svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress-m.png"); }
+.no-svg .fc-webicon.wordpress.large { background: url("images/fc-webicon-wordpress.png"); }
+.no-svg .fc-webicon.wordpress.small { background: url("images/fc-webicon-wordpress-s.png"); }
+.svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress.svg"); }
+
+
 /* YouTube */
 .no-svg .fc-webicon.youtube { background: url("images/fc-webicon-youtube-m.png"); }
 .no-svg .fc-webicon.youtube.large { background: url("images/fc-webicon-youtube.png"); }

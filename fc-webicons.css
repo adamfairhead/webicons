@@ -47,6 +47,13 @@
 .no-svg .fc-webicon.flickr.small { background: url("images/fc-webicon-flickr-s.png"); }
 .svg .fc-webicon.flickr { background: url("images/fc-webicon-flickr.svg"); }
 
+/* Foursquare */
+.no-svg .fc-webicon.foursquare { background: url("images/fc-webicon-foursquare-m.png"); }
+.no-svg .fc-webicon.foursquare.large { background: url("images/fc-webicon-foursquare.png"); }
+.no-svg .fc-webicon.foursquare.small { background: url("images/fc-webicon-foursquare-s.png"); }
+.svg .fc-webicon.foursquare { background: url("images/fc-webicon-foursquare.svg"); }
+
+
 /* Github */
 .no-svg .fc-webicon.github { background: url("images/fc-webicon-github-m.png"); }
 .no-svg .fc-webicon.github.large { background: url("images/fc-webicon-github.png"); }
@@ -64,6 +71,12 @@
 .no-svg .fc-webicon.icloud.large { background: url("images/fc-webicon-icloud.png"); }
 .no-svg .fc-webicon.icloud.small { background: url("images/fc-webicon-icloud-s.png"); }
 .svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud.svg"); }
+
+/* Last.fm */
+.no-svg .fc-webicon.lastfm { background: url("images/fc-webicon-lastfm-m.png"); }
+.no-svg .fc-webicon.lastfm.large { background: url("images/fc-webicon-lastfm.png"); }
+.no-svg .fc-webicon.lastfm.small { background: url("images/fc-webicon-lastfm-s.png"); }
+.svg .fc-webicon.lastfm { background: url("images/fc-webicon-lastfm.svg"); }
 
 /* LinkedIn */
 .no-svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin-m.png"); }
@@ -124,6 +137,12 @@
 .no-svg .fc-webicon.stumbleupon.large { background: url("images/fc-webicon-stumbleupon.png"); }
 .no-svg .fc-webicon.stumbleupon.small { background: url("images/fc-webicon-stumbleupon-s.png"); }
 .svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.svg"); }
+
+/* Tumblr */
+.no-svg .fc-webicon.tumblr { background: url("images/fc-webicon-tumblr-m.png"); }
+.no-svg .fc-webicon.tumblr.large { background: url("images/fc-webicon-tumblr.png"); }
+.no-svg .fc-webicon.tumblr.small { background: url("images/fc-webicon-tumblr-s.png"); }
+.svg .fc-webicon.tumblr { background: url("images/fc-webicon-tumblr.svg"); }
 
 /* Twitter */
 .no-svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter-m.png"); }

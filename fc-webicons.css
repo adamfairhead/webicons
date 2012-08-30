@@ -53,7 +53,6 @@
 .no-svg .fc-webicon.foursquare.small { background: url("images/fc-webicon-foursquare-s.png"); }
 .svg .fc-webicon.foursquare { background: url("images/fc-webicon-foursquare.svg"); }
 
-
 /* Github */
 .no-svg .fc-webicon.github { background: url("images/fc-webicon-github-m.png"); }
 .no-svg .fc-webicon.github.large { background: url("images/fc-webicon-github.png"); }
@@ -168,6 +167,11 @@
 .no-svg .fc-webicon.wordpress.small { background: url("images/fc-webicon-wordpress-s.png"); }
 .svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress.svg"); }
 
+/* Yelp! */
+.no-svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp-m.png"); }
+.no-svg .fc-webicon.yelp.large { background: url("images/fc-webicon-yelp"); }
+.no-svg .fc-webicon.yelp.small { background: url("images/fc-webicon-yelp-s.png"); }
+.svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp.svg"); }
 
 /* YouTube */
 .no-svg .fc-webicon.youtube { background: url("images/fc-webicon-youtube-m.png"); }

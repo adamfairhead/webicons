@@ -102,6 +102,12 @@
 .no-svg .fc-webicon.pinterest.small { background: url("images/fc-webicon-pinterest-s.png"); }
 .svg .fc-webicon.pinterest { background: url("images/fc-webicon-pinterest.svg"); }
 
+/* Quora */
+.no-svg .fc-webicon.quora { background: url("images/fc-webicon-quora-m.png"); }
+.no-svg .fc-webicon.quora.large { background: url("images/fc-webicon-quora.png"); }
+.no-svg .fc-webicon.quora.small { background: url("images/fc-webicon-quora-s.png"); }
+.svg .fc-webicon.quora { background: url("images/fc-webicon-quora.svg"); }
+
 /* Rdio */
 .no-svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio-m.png"); }
 .no-svg .fc-webicon.rdio.large { background: url("images/fc-webicon-rdio.png"); }

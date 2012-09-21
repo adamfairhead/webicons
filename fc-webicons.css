@@ -71,6 +71,12 @@
 .no-svg .fc-webicon.icloud.small { background: url("images/fc-webicon-icloud-s.png"); }
 .svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud.svg"); }
 
+/* Instagram */
+.no-svg .fc-webicon.instagram { background: url("images/fc-webicon-instagram-m.png"); }
+.no-svg .fc-webicon.instagram.large { background: url("images/fc-webicon-instagram.png"); }
+.no-svg .fc-webicon.instagram.small { background: url("images/fc-webicon-instagram-s.png"); }
+.svg .fc-webicon.instagram { background: url("images/fc-webicon-instagram.svg"); }
+
 /* Last.fm */
 .no-svg .fc-webicon.lastfm { background: url("images/fc-webicon-lastfm-m.png"); }
 .no-svg .fc-webicon.lastfm.large { background: url("images/fc-webicon-lastfm.png"); }

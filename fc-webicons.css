@@ -95,6 +95,12 @@
 .no-svg .fc-webicon.mail.small { background: url("images/fc-webicon-mail-s.png"); }
 .svg .fc-webicon.mail { background: url("images/fc-webicon-mail.svg"); }
 
+/* Mixi */
+.no-svg .fc-webicon.mixi { background: url("images/fc-webicon-mixi-m.png"); }
+.no-svg .fc-webicon.mixi.large { background: url("images/fc-webicon-mixi.png"); }
+.no-svg .fc-webicon.mixi.small { background: url("images/fc-webicon-mixi-s.png"); }
+.svg .fc-webicon.mixi { background: url("images/fc-webicon-mixi.svg"); }
+
 /* MSN */
 .no-svg .fc-webicon.msn { background: url("images/fc-webicon-msn-m.png"); }
 .no-svg .fc-webicon.msn.large { background: url("images/fc-webicon-msn.png"); }
@@ -112,6 +118,18 @@
 .no-svg .fc-webicon.quora.large { background: url("images/fc-webicon-quora.png"); }
 .no-svg .fc-webicon.quora.small { background: url("images/fc-webicon-quora-s.png"); }
 .svg .fc-webicon.quora { background: url("images/fc-webicon-quora.svg"); }
+
+/* Orkut */
+.no-svg .fc-webicon.orkut { background: url("images/fc-webicon-orkut-m.png"); }
+.no-svg .fc-webicon.orkut.large { background: url("images/fc-webicon-orkut.png"); }
+.no-svg .fc-webicon.orkut.small { background: url("images/fc-webicon-orkut-s.png"); }
+.svg .fc-webicon.orkut { background: url("images/fc-webicon-orkut.svg"); }
+
+/* Renren */
+.no-svg .fc-webicon.renren { background: url("images/fc-webicon-renren-m.png"); }
+.no-svg .fc-webicon.renren.large { background: url("images/fc-webicon-renren.png"); }
+.no-svg .fc-webicon.renren.small { background: url("images/fc-webicon-renren-s.png"); }
+.svg .fc-webicon.renren { background: url("images/fc-webicon-renren.svg"); }
 
 /* Rdio */
 .no-svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio-m.png"); }
@@ -166,6 +184,12 @@
 .no-svg .fc-webicon.vimeo.large { background: url("images/fc-webicon-vimeo.png"); }
 .no-svg .fc-webicon.vimeo.small { background: url("images/fc-webicon-vimeo-s.png"); }
 .svg .fc-webicon.vimeo { background: url("images/fc-webicon-vimeo.svg"); }
+
+/* Sina Weibo */
+.no-svg .fc-webicon.weibo { background: url("images/fc-webicon-weibo-m.png"); }
+.no-svg .fc-webicon.weibo.large { background: url("images/fc-webicon-weibo.png"); }
+.no-svg .fc-webicon.weibo.small { background: url("images/fc-webicon-weibo-s.png"); }
+.svg .fc-webicon.weibo { background: url("images/fc-webicon-weibo.svg"); }
 
 /* Wordpress */
 .no-svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress-m.png"); }

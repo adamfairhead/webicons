@@ -155,6 +155,12 @@
 .no-svg .fc-webicon.skype.small { background: url("images/fc-webicon-skype-s.png"); }
 .svg .fc-webicon.skype { background: url("images/fc-webicon-skype.svg"); }
 
+/* SoundCloud */
+.no-svg .fc-webicon.soundcloud { background: url("images/fc-webicon-soundcloud-m.png"); }
+.no-svg .fc-webicon.soundcloud.large { background: url("images/fc-webicon-soundcloud.png"); }
+.no-svg .fc-webicon.soundcloud.small { background: url("images/fc-webicon-soundcloud-s.png"); }
+.svg .fc-webicon.soundcloud { background: url("images/fc-webicon-soundcloud.svg"); }
+
 /* Spotify */
 .no-svg .fc-webicon.spotify { background: url("images/fc-webicon-spotify-m.png"); }
 .no-svg .fc-webicon.spotify.large { background: url("images/fc-webicon-spotify.png"); }
@@ -166,6 +172,12 @@
 .no-svg .fc-webicon.stumbleupon.large { background: url("images/fc-webicon-stumbleupon.png"); }
 .no-svg .fc-webicon.stumbleupon.small { background: url("images/fc-webicon-stumbleupon-s.png"); }
 .svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.svg"); }
+
+/* Trip Advisor */
+.no-svg .fc-webicon.tripadvisor { background: url("images/fc-webicon-tripadvisor-m.png"); }
+.no-svg .fc-webicon.tripadvisor.large { background: url("images/fc-webicon-tripadvisor.png"); }
+.no-svg .fc-webicon.tripadvisor.small { background: url("images/fc-webicon-tripadvisor-s.png"); }
+.svg .fc-webicon.tripadvisor { background: url("images/fc-webicon-tripadvisor.svg"); }
 
 /* Tumblr */
 .no-svg .fc-webicon.tumblr { background: url("images/fc-webicon-tumblr-m.png"); }

@@ -14,7 +14,7 @@ Icon List So Far
 =================
 
 * Behance
-* Adobe Cloud
+* Adobe Creative Cloud
 * Dribbble
 * Dropbox
 * Evernote

@@ -5,11 +5,23 @@
 .fc-webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
 .fc-webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
 
+/* About.me */
+.no-svg .fc-webicon.aboutme { background: url("images/fc-webicon-aboutme-m.png"); }
+.no-svg .fc-webicon.aboutme.large { background: url("images/fc-webicon-aboutme.png"); }
+.no-svg .fc-webicon.aboutme.small { background: url("images/fc-webicon-aboutme-s.png"); }
+.svg .fc-webicon.aboutme { background: url("images/fc-webicon-aboutme.svg"); }
+
 /* Behance */
 .no-svg .fc-webicon.behance { background: url("images/fc-webicon-behance-m.png"); }
 .no-svg .fc-webicon.behance.large { background: url("images/fc-webicon-behance.png"); }
 .no-svg .fc-webicon.behance.small { background: url("images/fc-webicon-behance-s.png"); }
 .svg .fc-webicon.behance { background: url("images/fc-webicon-behance.svg"); }
+
+/* Bitbucket */
+.no-svg .fc-webicon.bitbucket { background: url("images/fc-webicon-bitbucket-m.png"); }
+.no-svg .fc-webicon.bitbucket.large { background: url("images/fc-webicon-bitbucket.png"); }
+.no-svg .fc-webicon.bitbucket.small { background: url("images/fc-webicon-bitbucket-s.png"); }
+.svg .fc-webicon.bitbucket { background: url("images/fc-webicon-bitbucket.svg"); }
 
 /* Creative Cloud */
 .no-svg .fc-webicon.creativecloud { background: url("images/fc-webicon-creativecloud-m.png"); }
@@ -52,6 +64,12 @@
 .no-svg .fc-webicon.foursquare.large { background: url("images/fc-webicon-foursquare.png"); }
 .no-svg .fc-webicon.foursquare.small { background: url("images/fc-webicon-foursquare-s.png"); }
 .svg .fc-webicon.foursquare { background: url("images/fc-webicon-foursquare.svg"); }
+
+/* Git */
+.no-svg .fc-webicon.git { background: url("images/fc-webicon-git-m.png"); }
+.no-svg .fc-webicon.git.large { background: url("images/fc-webicon-git.png"); }
+.no-svg .fc-webicon.git.small { background: url("images/fc-webicon-git-s.png"); }
+.svg .fc-webicon.git { background: url("images/fc-webicon-git.svg"); }
 
 /* Github */
 .no-svg .fc-webicon.github { background: url("images/fc-webicon-github-m.png"); }
@@ -125,17 +143,23 @@
 .no-svg .fc-webicon.orkut.small { background: url("images/fc-webicon-orkut-s.png"); }
 .svg .fc-webicon.orkut { background: url("images/fc-webicon-orkut.svg"); }
 
-/* Renren */
-.no-svg .fc-webicon.renren { background: url("images/fc-webicon-renren-m.png"); }
-.no-svg .fc-webicon.renren.large { background: url("images/fc-webicon-renren.png"); }
-.no-svg .fc-webicon.renren.small { background: url("images/fc-webicon-renren-s.png"); }
-.svg .fc-webicon.renren { background: url("images/fc-webicon-renren.svg"); }
+/* Mercurial */
+.no-svg .fc-webicon.mercurial { background: url("images/fc-webicon-mercurial-m.png"); }
+.no-svg .fc-webicon.mercurial.large { background: url("images/fc-webicon-mercurial.png"); }
+.no-svg .fc-webicon.mercurial.small { background: url("images/fc-webicon-mercurial-s.png"); }
+.svg .fc-webicon.mercurial { background: url("images/fc-webicon-mercurial.svg"); }
 
 /* Rdio */
 .no-svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio-m.png"); }
 .no-svg .fc-webicon.rdio.large { background: url("images/fc-webicon-rdio.png"); }
 .no-svg .fc-webicon.rdio.small { background: url("images/fc-webicon-rdio-s.png"); }
 .svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.svg"); }
+
+/* Renren */
+.no-svg .fc-webicon.renren { background: url("images/fc-webicon-renren-m.png"); }
+.no-svg .fc-webicon.renren.large { background: url("images/fc-webicon-renren.png"); }
+.no-svg .fc-webicon.renren.small { background: url("images/fc-webicon-renren-s.png"); }
+.svg .fc-webicon.renren { background: url("images/fc-webicon-renren.svg"); }
 
 /* RSS */
 .no-svg .fc-webicon.rss { background: url("images/fc-webicon-rss-m.png"); }
@@ -173,6 +197,12 @@
 .no-svg .fc-webicon.stumbleupon.small { background: url("images/fc-webicon-stumbleupon-s.png"); }
 .svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon.svg"); }
 
+/* SVN */
+.no-svg .fc-webicon.svn { background: url("images/fc-webicon-svn-m.png"); }
+.no-svg .fc-webicon.svn.large { background: url("images/fc-webicon-svn.png"); }
+.no-svg .fc-webicon.svn.small { background: url("images/fc-webicon-svn-s.png"); }
+.svg .fc-webicon.svn { background: url("images/fc-webicon-svn.svg"); }
+
 /* Trip Advisor */
 .no-svg .fc-webicon.tripadvisor { background: url("images/fc-webicon-tripadvisor-m.png"); }
 .no-svg .fc-webicon.tripadvisor.large { background: url("images/fc-webicon-tripadvisor.png"); }
@@ -208,6 +238,12 @@
 .no-svg .fc-webicon.wordpress.large { background: url("images/fc-webicon-wordpress.png"); }
 .no-svg .fc-webicon.wordpress.small { background: url("images/fc-webicon-wordpress-s.png"); }
 .svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress.svg"); }
+
+/* Xing */
+.no-svg .fc-webicon.xing { background: url("images/fc-webicon-xing-m.png"); }
+.no-svg .fc-webicon.xing.large { background: url("images/fc-webicon-xing.png"); }
+.no-svg .fc-webicon.xing.small { background: url("images/fc-webicon-xing-s.png"); }
+.svg .fc-webicon.xing { background: url("images/fc-webicon-xing.svg"); }
 
 /* Yelp! */
 .no-svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp-m.png"); }

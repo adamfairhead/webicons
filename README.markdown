@@ -14,6 +14,7 @@ Icon List So Far
 =================
 
 * About.me
+* Apple
 * Behance
 * BitBucket
 * Adobe Creative Cloud

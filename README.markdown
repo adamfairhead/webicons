@@ -15,7 +15,7 @@ Icon List So Far
 
 * About.me
 * Apple
-* Behance
+* Béhance
 * BitBucket
 * Adobe Creative Cloud
 * Dribbble

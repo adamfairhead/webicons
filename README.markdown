@@ -52,6 +52,7 @@ Icon List So Far
 * Tumblr
 * Twitter
 * Vimeo
+* Windows
 * WordPress
 * Sina Weibo
 * Xing

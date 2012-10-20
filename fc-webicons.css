@@ -245,6 +245,12 @@
 .no-svg .fc-webicon.weibo.small { background: url("images/fc-webicon-weibo-s.png"); }
 .svg .fc-webicon.weibo { background: url("images/fc-webicon-weibo.svg"); }
 
+/* Windows */
+.no-svg .fc-webicon.windows { background: url("images/fc-webicon-windows-m.png"); }
+.no-svg .fc-webicon.windows.large { background: url("images/fc-webicon-windows.png"); }
+.no-svg .fc-webicon.windows.small { background: url("images/fc-webicon-windows-s.png"); }
+.svg .fc-webicon.windows { background: url("images/fc-webicon-windows.svg"); }
+
 /* Wordpress */
 .no-svg .fc-webicon.wordpress { background: url("images/fc-webicon-wordpress-m.png"); }
 .no-svg .fc-webicon.wordpress.large { background: url("images/fc-webicon-wordpress.png"); }

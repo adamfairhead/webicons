@@ -13,7 +13,9 @@ Enjoy FC Webicons!
 Icon List So Far
 =================
 
+* About.me
 * Behance
+* BitBucket
 * Adobe Creative Cloud
 * Dribbble
 * Dropbox
@@ -21,6 +23,7 @@ Icon List So Far
 * Facebook
 * Flickr
 * Foursquare
+* Git
 * GitHub
 * Google+
 * iCloud
@@ -28,6 +31,7 @@ Icon List So Far
 * Last.fm
 * LinkedIn
 * Mail
+* Mercurial
 * Mixi
 * MSN
 * Pinterest
@@ -41,12 +45,14 @@ Icon List So Far
 * SoundCloud
 * Spotify
 * StumbleUpon!
+* SVN
 * Trip Advisor
 * Tumblr
 * Twitter
 * Vimeo
 * WordPress
 * Sina Weibo
+* Xing
 * Yelp!
 * YouTube
 * YouVersion

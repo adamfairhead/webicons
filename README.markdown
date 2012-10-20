@@ -14,6 +14,7 @@ Icon List So Far
 =================
 
 * About.me
+* Android
 * Apple
 * Béhance
 * BitBucket

@@ -11,6 +11,12 @@
 .no-svg .fc-webicon.aboutme.small { background: url("images/fc-webicon-aboutme-s.png"); }
 .svg .fc-webicon.aboutme { background: url("images/fc-webicon-aboutme.svg"); }
 
+/* Android */
+.no-svg .fc-webicon.android { background: url("images/fc-webicon-android-m.png"); }
+.no-svg .fc-webicon.android.large { background: url("images/fc-webicon-android.png"); }
+.no-svg .fc-webicon.android.small { background: url("images/fc-webicon-android-s.png"); }
+.svg .fc-webicon.android { background: url("images/fc-webicon-android.svg"); }
+
 /* Apple */
 .no-svg .fc-webicon.apple { background: url("images/fc-webicon-apple-m.png"); }
 .no-svg .fc-webicon.apple.large { background: url("images/fc-webicon-apple.png"); }

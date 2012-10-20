@@ -27,6 +27,7 @@ Icon List So Far
 * Foursquare
 * Git
 * GitHub
+* Google Play
 * Google+
 * HTML5
 * iCloud

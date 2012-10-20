@@ -89,6 +89,12 @@
 .no-svg .fc-webicon.github.small { background: url("images/fc-webicon-github-s.png"); }
 .svg .fc-webicon.github { background: url("images/fc-webicon-github.svg"); }
 
+/* Google Play */
+.no-svg .fc-webicon.googleplay { background: url("images/fc-webicon-googleplay-m.png"); }
+.no-svg .fc-webicon.googleplay.large { background: url("images/fc-webicon-googleplay.png"); }
+.no-svg .fc-webicon.googleplay.small { background: url("images/fc-webicon-googleplay-s.png"); }
+.svg .fc-webicon.googleplay { background: url("images/fc-webicon-googleplay.svg"); }
+
 /* Google+ */
 .no-svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus-m.png"); }
 .no-svg .fc-webicon.googleplus.large { background: url("images/fc-webicon-googleplus.png"); }

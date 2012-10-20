@@ -26,6 +26,7 @@ Icon List So Far
 * Git
 * GitHub
 * Google+
+* HTML5
 * iCloud
 * Instagram
 * Last.fm

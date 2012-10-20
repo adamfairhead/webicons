@@ -83,6 +83,12 @@
 .no-svg .fc-webicon.googleplus.small { background: url("images/fc-webicon-googleplus-s.png"); }
 .svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus.svg"); }
 
+/* HTML5 */
+.no-svg .fc-webicon.html5 { background: url("images/fc-webicon-html5-m.png"); }
+.no-svg .fc-webicon.html5.large { background: url("images/fc-webicon-html5.png"); }
+.no-svg .fc-webicon.html5.small { background: url("images/fc-webicon-html5-s.png"); }
+.svg .fc-webicon.html5 { background: url("images/fc-webicon-html5.svg"); }
+
 /* iCloud */
 .no-svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud-m.png"); }
 .no-svg .fc-webicon.icloud.large { background: url("images/fc-webicon-icloud.png"); }

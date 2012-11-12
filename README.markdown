@@ -14,6 +14,7 @@ Icon List So Far
 =================
 
 * About.me
+* ADN (App.net)
 * Android
 * Apple
 * Béhance
@@ -48,8 +49,10 @@ Icon List So Far
 * Skype
 * SoundCloud
 * Spotify
+* StackOverflow
 * StumbleUpon!
 * SVN
+* Tent
 * Trip Advisor
 * Tumblr
 * Twitter

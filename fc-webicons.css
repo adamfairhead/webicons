@@ -11,6 +11,12 @@
 .no-svg .fc-webicon.aboutme.small { background: url("images/fc-webicon-aboutme-s.png"); }
 .svg .fc-webicon.aboutme { background: url("images/fc-webicon-aboutme.svg"); }
 
+/* ADN (App.net) */
+.no-svg .fc-webicon.adn { background: url("images/fc-webicon-adn-m.png"); }
+.no-svg .fc-webicon.adn.large { background: url("images/fc-webicon-adn.png"); }
+.no-svg .fc-webicon.adn.small { background: url("images/fc-webicon-adn-s.png"); }
+.svg .fc-webicon.adn { background: url("images/fc-webicon-adn.svg"); }
+
 /* Android */
 .no-svg .fc-webicon.android { background: url("images/fc-webicon-android-m.png"); }
 .no-svg .fc-webicon.android.large { background: url("images/fc-webicon-android.png"); }
@@ -215,6 +221,12 @@
 .no-svg .fc-webicon.spotify.small { background: url("images/fc-webicon-spotify-s.png"); }
 .svg .fc-webicon.spotify { background: url("images/fc-webicon-spotify.svg"); }
 
+/* Stack Overflow */
+.no-svg .fc-webicon.stackoverflow { background: url("images/fc-webicon-stackoverflow-m.png"); }
+.no-svg .fc-webicon.stackoverflow.large { background: url("images/fc-webicon-stackoverflow.png"); }
+.no-svg .fc-webicon.stackoverflow.small { background: url("images/fc-webicon-stackoverflow-s.png"); }
+.svg .fc-webicon.stackoverflow { background: url("images/fc-webicon-stackoverflow.svg"); }
+
 /* StumbleUpon! */
 .no-svg .fc-webicon.stumbleupon { background: url("images/fc-webicon-stumbleupon-m.png"); }
 .no-svg .fc-webicon.stumbleupon.large { background: url("images/fc-webicon-stumbleupon.png"); }
@@ -226,6 +238,12 @@
 .no-svg .fc-webicon.svn.large { background: url("images/fc-webicon-svn.png"); }
 .no-svg .fc-webicon.svn.small { background: url("images/fc-webicon-svn-s.png"); }
 .svg .fc-webicon.svn { background: url("images/fc-webicon-svn.svg"); }
+
+/* Tent */
+.no-svg .fc-webicon.tent { background: url("images/fc-webicon-tent-m.png"); }
+.no-svg .fc-webicon.tent.large { background: url("images/fc-webicon-tent.png"); }
+.no-svg .fc-webicon.tent.small { background: url("images/fc-webicon-tent-s.png"); }
+.svg .fc-webicon.tent { background: url("images/fc-webicon-tent.svg"); }
 
 /* Trip Advisor */
 .no-svg .fc-webicon.tripadvisor { background: url("images/fc-webicon-tripadvisor-m.png"); }

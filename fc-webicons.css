@@ -161,6 +161,12 @@
 .no-svg .fc-webicon.pinterest.small { background: url("images/fc-webicon-pinterest-s.png"); }
 .svg .fc-webicon.pinterest { background: url("images/fc-webicon-pinterest.svg"); }
 
+/* PocketApp */
+.no-svg .fc-webicon.pocket { background: url("images/fc-webicon-pocketapp-m.png"); }
+.no-svg .fc-webicon.pocket.large { background: url("images/fc-webicon-pocketapp.png"); }
+.no-svg .fc-webicon.pocket.small { background: url("images/fc-webicon-pocketapp-s.png"); }
+.svg .fc-webicon.pocket { background: url("images/fc-webicon-pocketapp.svg"); }
+
 /* Quora */
 .no-svg .fc-webicon.quora { background: url("images/fc-webicon-quora-m.png"); }
 .no-svg .fc-webicon.quora.large { background: url("images/fc-webicon-quora.png"); }

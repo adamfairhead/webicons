@@ -40,6 +40,7 @@ Icon List So Far
 * Mixi
 * MSN
 * Pinterest
+* PocketApp
 * Quora
 * Orkut
 * Rdio

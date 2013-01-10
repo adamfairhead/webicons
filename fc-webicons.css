@@ -41,6 +41,12 @@
 .no-svg .fc-webicon.bitbucket.small { background: url("images/fc-webicon-bitbucket-s.png"); }
 .svg .fc-webicon.bitbucket { background: url("images/fc-webicon-bitbucket.svg"); }
 
+/* Coderwall */
+.no-svg .fc-webicon.coderwall { background: url("images/fc-webicon-coderwall-m.png"); }
+.no-svg .fc-webicon.coderwall.large { background: url("images/fc-webicon-coderwall.png"); }
+.no-svg .fc-webicon.coderwall.small { background: url("images/fc-webicon-coderwall-s.png"); }
+.svg .fc-webicon.coderwall { background: url("images/fc-webicon-coderwall.svg"); }
+
 /* Creative Cloud */
 .no-svg .fc-webicon.creativecloud { background: url("images/fc-webicon-creativecloud-m.png"); }
 .no-svg .fc-webicon.creativecloud.large { background: url("images/fc-webicon-creativecloud.png"); }

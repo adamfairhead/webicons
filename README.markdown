@@ -19,6 +19,7 @@ Icon List So Far
 * Apple
 * Béhance
 * BitBucket
+* Blogger
 * Adobe Creative Cloud
 * Dribbble
 * Dropbox

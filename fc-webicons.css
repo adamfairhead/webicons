@@ -41,19 +41,17 @@
 .no-svg .fc-webicon.bitbucket.small { background: url("images/fc-webicon-bitbucket-s.png"); }
 .svg .fc-webicon.bitbucket { background: url("images/fc-webicon-bitbucket.svg"); }
 
-<<<<<<< HEAD
 /* Blogger */
 .no-svg .fc-webicon.blogger { background: url("images/fc-webicon-blogger-m.png"); }
 .no-svg .fc-webicon.blogger.large { background: url("images/fc-webicon-blogger"); }
 .no-svg .fc-webicon.blogger.small { background: url("images/fc-webicon-blogger-s.png"); }
 .svg .fc-webicon.blogger { background: url("images/fc-webicon-blogger"); }
-=======
+
 /* Coderwall */
 .no-svg .fc-webicon.coderwall { background: url("images/fc-webicon-coderwall-m.png"); }
 .no-svg .fc-webicon.coderwall.large { background: url("images/fc-webicon-coderwall.png"); }
 .no-svg .fc-webicon.coderwall.small { background: url("images/fc-webicon-coderwall-s.png"); }
 .svg .fc-webicon.coderwall { background: url("images/fc-webicon-coderwall.svg"); }
->>>>>>> 32ec582b12ab4257c789d27c551abd24372ac4f9
 
 /* Creative Cloud */
 .no-svg .fc-webicon.creativecloud { background: url("images/fc-webicon-creativecloud-m.png"); }

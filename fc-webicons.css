@@ -43,9 +43,9 @@
 
 /* Blogger */
 .no-svg .fc-webicon.blogger { background: url("images/fc-webicon-blogger-m.png"); }
-.no-svg .fc-webicon.blogger.large { background: url("images/fc-webicon-blogger"); }
+.no-svg .fc-webicon.blogger.large { background: url("images/fc-webicon-blogger.png"); }
 .no-svg .fc-webicon.blogger.small { background: url("images/fc-webicon-blogger-s.png"); }
-.svg .fc-webicon.blogger { background: url("images/fc-webicon-blogger"); }
+.svg .fc-webicon.blogger { background: url("images/fc-webicon-blogger.svg"); }
 
 /* Coderwall */
 .no-svg .fc-webicon.coderwall { background: url("images/fc-webicon-coderwall-m.png"); }
@@ -313,7 +313,7 @@
 
 /* Yelp! */
 .no-svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp-m.png"); }
-.no-svg .fc-webicon.yelp.large { background: url("images/fc-webicon-yelp"); }
+.no-svg .fc-webicon.yelp.large { background: url("images/fc-webicon-yelp.png"); }
 .no-svg .fc-webicon.yelp.small { background: url("images/fc-webicon-yelp-s.png"); }
 .svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp.svg"); }
 

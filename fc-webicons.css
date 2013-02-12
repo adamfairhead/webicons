@@ -5,6 +5,12 @@
 .fc-webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
 .fc-webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
 
+/* 500px */
+.no-svg .fc-webicon.f500px { background: url("images/fc-webicon-500px-m.png"); }
+.no-svg .fc-webicon.f500px.large { background: url("images/fc-webicon-500px"); }
+.no-svg .fc-webicon.f500px.small { background: url("images/fc-webicon-500px-s.png"); }
+.svg .fc-webicon.f500px { background: url("images/fc-webicon-500px.svg"); }
+
 /* About.me */
 .no-svg .fc-webicon.aboutme { background: url("images/fc-webicon-aboutme-m.png"); }
 .no-svg .fc-webicon.aboutme.large { background: url("images/fc-webicon-aboutme.png"); }
@@ -77,6 +83,12 @@
 .no-svg .fc-webicon.evernote.small { background: url("images/fc-webicon-evernote-s.png"); }
 .svg .fc-webicon.evernote { background: url("images/fc-webicon-evernote.svg"); }
 
+/* Fairhead Creative */
+.no-svg .fc-webicon.fairheadcreative { background: url("images/fc-webicon-fairheadcreative-m.png"); }
+.no-svg .fc-webicon.fairheadcreative.large { background: url("images/fc-webicon-fairheadcreative"); }
+.no-svg .fc-webicon.fairheadcreative.small { background: url("images/fc-webicon-fairheadcreative-s.png"); }
+.svg .fc-webicon.fairheadcreative { background: url("images/fc-webicon-fairheadcreative.svg"); }
+
 /* Facebook */
 .no-svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook-m.png"); }
 .no-svg .fc-webicon.facebook.large { background: url("images/fc-webicon-facebook.png"); }
@@ -106,6 +118,12 @@
 .no-svg .fc-webicon.github.large { background: url("images/fc-webicon-github.png"); }
 .no-svg .fc-webicon.github.small { background: url("images/fc-webicon-github-s.png"); }
 .svg .fc-webicon.github { background: url("images/fc-webicon-github.svg"); }
+
+/* Goodreads */
+.no-svg .fc-webicon.goodreads { background: url("images/fc-webicon-goodreads-m.png"); }
+.no-svg .fc-webicon.goodreads.large { background: url("images/fc-webicon-goodreads"); }
+.no-svg .fc-webicon.goodreads.small { background: url("images/fc-webicon-goodreads-s.png"); }
+.svg .fc-webicon.goodreads { background: url("images/fc-webicon-goodreads.svg"); }
 
 /* Google Play */
 .no-svg .fc-webicon.googleplay { background: url("images/fc-webicon-googleplay-m.png"); }
@@ -166,6 +184,12 @@
 .no-svg .fc-webicon.msn.large { background: url("images/fc-webicon-msn.png"); }
 .no-svg .fc-webicon.msn.small { background: url("images/fc-webicon-msn-s.png"); }
 .svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }
+
+/* Picasa */
+.no-svg .fc-webicon.picasa { background: url("images/fc-webicon-picasa-m.png"); }
+.no-svg .fc-webicon.picasa.large { background: url("images/fc-webicon-picasa"); }
+.no-svg .fc-webicon.picasa.small { background: url("images/fc-webicon-picasa-s.png"); }
+.svg .fc-webicon.picasa { background: url("images/fc-webicon-picasa.svg"); }
 
 /* Pinterest */
 .no-svg .fc-webicon.pinterest { background: url("images/fc-webicon-pinterest-m.png"); }

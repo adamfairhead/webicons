@@ -1,0 +1,74 @@
+@import compass
+
+// When new icons are added, simply add the name to $services.
+$webicons-services: 500px aboutme adn android apple behance bitbucket blogger coderwall adobe creativecloud dribbble dropbox evernote fairheadcreative facebook flickr foursquare git github picasa goodreads googleplay googleplus html5 icloud instagram lastfm linkedin mail mercurial mixi msn pinterest pocketapp quora orkut rdio renren rss skitch skype soundcloud spotify stackoverflow stumbleupon svn tent tripadvisor tumblr twitter vimeo windows wordpress sina weibo xing yelp youtube youversion zerply
+
+// Easily change location of Webicons, with $webicons-url.
+$webicons-url: "../../images" !default
+
+%fc-webicon
+  display: inline-block
+  background-size: 100%
+  width: 30px
+  height: 30px
+  text-indent: -999em
+  text-align: left
+  +box-shadow(0 1px 0 rgba(0, 0, 0, 0.5))
+  +border-radius(5px)
+  &:hover
+    margin: -1px 0 1px
+    +box-shadow(0 2px 0 rgba(0, 0, 0, 0.25))
+  &.small
+    width: 20px
+    height: 20px
+    +border-radius(3px)
+  &.large
+    width: 48px
+    height: 48px
+    +border-radius(6px)
+
+=webicon-no-svg
+  .no-svg &
+    @content
+
+=webicon-no-svg-large
+  .no-svg &.large
+    @content
+
+=webicon-no-svg-small
+  .no-svg &.small
+    @content
+
+=webicon-svg-small
+  .svg &
+    @content
+
+=webicon-services
+  @each $webicons-service in $webicons-services
+    // Because there is an f, before the 500px icon.
+    @if $webicons-service == 500px
+      .fc-webicon.f#{$webicons-service}
+        +webicon-no-svg
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}-m.png")
+        +webicon-no-svg-large
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}.png")
+        +webicon-no-svg-small
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}-s.png")
+        +webicon-svg-small
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}.svg")
+    @else
+      .fc-webicon.#{$webicons-service}
+        +webicon-no-svg
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}-m.png")
+        +webicon-no-svg-large
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}.png")
+        +webicon-no-svg-small
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}-s.png")
+        +webicon-svg-small
+          background: url("#{$webicons-url}/fc-webicon-#{$webicons-service}.svg")
+
+.fc-webicon
+  @extend %fc-webicon
+
++webicon-services
+

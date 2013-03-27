@@ -47,7 +47,7 @@ $webicons-url: "../../images" !default
     @content
 
 =webicon-services
-  @each $webicons-service in $webicons-services
+  @each $webicons-service in $my-webicons-services
     // Because there is an f, before the 500px icon.
     @if $webicons-service == 500px
       .fc-webicon.f#{$webicons-service}

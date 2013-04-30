@@ -1,4 +1,4 @@
-FC Webicons Set
+Sassy FC Webicons Set
 =====================
 
 FC Webicons Set is a set of resolution-independent social icons for use on your website. They use feature-detected SVG graphics (with PNG fallbacks) to display the icons over their appropriate negatively indented anchor titles.
@@ -72,7 +72,6 @@ Icon List So Far
 * YouTube
 * YouVersion
 * Zerply
-
 
 Fairhead Creative
 =================

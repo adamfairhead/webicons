@@ -3,8 +3,8 @@
 
 html, body { height: 100%; }
 
-.svg .pattern { background: url('../images/background.svg') center 10px repeat-x; }
-.no-svg .pattern { background: url('../images/background.png') center 10px repeat-x; }
+.svg .pattern { background: url('http://adamfairhead.github.io/webicons/images/background.svg') center 10px repeat-x; }
+.no-svg .pattern { background: url('http://adamfairhead.github.io/webicons/images/background.png') center 10px repeat-x; }
 
 .pattern { overflow: hidden; position: absolute; top: 0; height: 274px; width: 100%; }
 
@@ -13,7 +13,7 @@ body {
 }
 
 h2 {
-  background: url('../images/title.svg') center top no-repeat;
+  background: url('http://adamfairhead.github.io/webicons/images/title.svg') center top no-repeat;
   display: block;
   width: 100%;
   max-width: 448px;

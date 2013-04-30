@@ -1,0 +1,41 @@
+@import "settings";
+@import "foundation";
+
+html, body { height: 100%; }
+
+.svg .pattern { background: url('../images/background.svg') center 10px repeat-x; }
+.no-svg .pattern { background: url('../images/background.png') center 10px repeat-x; }
+
+.pattern { overflow: hidden; position: absolute; top: 0; height: 274px; width: 100%; }
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  background: url('../images/title.svg') center top no-repeat;
+  display: block;
+  width: 100%;
+  max-width: 448px;
+  height: 116px;
+  text-indent: -99em;
+  margin: 290px auto 25px;
+}
+
+.button {
+  border-radius: 8px;
+  box-shadow: none;
+  border: none;
+  padding: 25px;
+}
+
+.meta {
+  font-size: .8em;
+  text-align: center;
+}
+
+span {
+  margin: 0 5px 0 0;
+  top: -4px;
+  position: relative;
+}

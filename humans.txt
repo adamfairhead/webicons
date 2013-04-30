@@ -1,0 +1,13 @@
+/* humanstxt.org */
+
+/* TEAM */
+
+  Adam Fairhead
+  Site: http://www.adamfairhead.com
+  Twitter: @fairheadc
+  Location: US
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Webicons, Foundation, Orbit, Reveal, ImgSizer, Modernizr
+  Software: Espresso, Terminal, Git

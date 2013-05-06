@@ -191,6 +191,12 @@
 .no-svg .fc-webicon.msn.small { background: url("images/fc-webicon-msn-s.png"); }
 .svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }
 
+/* OpenId */
+.no-svg .fc-webicon.openid { background: url("images/fc-webicon-openid-m.png"); }
+.no-svg .fc-webicon.openid.large { background: url("images/fc-webicon-openid.png"); }
+.no-svg .fc-webicon.openid.small { background: url("images/fc-webicon-openid-s.png"); }
+.svg .fc-webicon.openid { background: url("images/fc-webicon-openid.svg"); }
+
 /* Picasa */
 .no-svg .fc-webicon.picasa { background: url("images/fc-webicon-picasa-m.png"); }
 .no-svg .fc-webicon.picasa.large { background: url("images/fc-webicon-picasa"); }

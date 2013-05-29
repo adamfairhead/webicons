@@ -149,6 +149,12 @@
 .no-svg .fc-webicon.icloud.small { background: url("images/fc-webicon-icloud-s.png"); }
 .svg .fc-webicon.icloud { background: url("images/fc-webicon-icloud.svg"); }
 
+/* Indiegogo */
+.no-svg .fc-webicon.indiegogo { background: url("images/fc-webicon-indiegogo-m.png"); }
+.no-svg .fc-webicon.indiegogo.large { background: url("images/fc-webicon-indiegogo.png"); }
+.no-svg .fc-webicon.indiegogo.small { background: url("images/fc-webicon-indiegogo-s.png"); }
+.svg .fc-webicon.indiegogo { background: url("images/fc-webicon-indiegogo.svg"); }
+
 /* Instagram */
 .no-svg .fc-webicon.instagram { background: url("images/fc-webicon-instagram-m.png"); }
 .no-svg .fc-webicon.instagram.large { background: url("images/fc-webicon-instagram.png"); }

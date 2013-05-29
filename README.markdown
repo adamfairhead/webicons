@@ -38,6 +38,7 @@ Icon List So Far
 * Google+
 * HTML5
 * iCloud
+* Indiegogo
 * Instagram
 * Kickstarter
 * Klout

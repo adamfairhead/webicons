@@ -161,6 +161,12 @@
 .no-svg .fc-webicon.instagram.small { background: url("images/fc-webicon-instagram-s.png"); }
 .svg .fc-webicon.instagram { background: url("images/fc-webicon-instagram.svg"); }
 
+/* Instapaper */
+.no-svg .fc-webicon.instapaper { background: url("images/fc-webicon-instapaper-m.png"); }
+.no-svg .fc-webicon.instapaper.large { background: url("images/fc-webicon-instapaper.png"); }
+.no-svg .fc-webicon.instapaper.small { background: url("images/fc-webicon-instapaper-s.png"); }
+.svg .fc-webicon.instapaper { background: url("images/fc-webicon-instapaper.svg"); }
+
 /* Kickstarter */
 .no-svg .fc-webicon.kickstarter { background: url("images/fc-webicon-kickstarter-m.png"); }
 .no-svg .fc-webicon.kickstarter.large { background: url("images/fc-webicon-kickstarter.png"); }

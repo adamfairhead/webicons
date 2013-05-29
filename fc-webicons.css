@@ -155,6 +155,12 @@
 .no-svg .fc-webicon.instagram.small { background: url("images/fc-webicon-instagram-s.png"); }
 .svg .fc-webicon.instagram { background: url("images/fc-webicon-instagram.svg"); }
 
+/* Kickstarter */
+.no-svg .fc-webicon.kickstarter { background: url("images/fc-webicon-kickstarter-m.png"); }
+.no-svg .fc-webicon.kickstarter.large { background: url("images/fc-webicon-kickstarter.png"); }
+.no-svg .fc-webicon.kickstarter.small { background: url("images/fc-webicon-kickstarter-s.png"); }
+.svg .fc-webicon.kickstarter { background: url("images/fc-webicon-kickstarter.svg"); }
+
 /* Last.fm */
 .no-svg .fc-webicon.lastfm { background: url("images/fc-webicon-lastfm-m.png"); }
 .no-svg .fc-webicon.lastfm.large { background: url("images/fc-webicon-lastfm.png"); }

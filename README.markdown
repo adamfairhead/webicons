@@ -39,6 +39,7 @@ Icon List So Far
 * HTML5
 * iCloud
 * Instagram
+* Kickstarter
 * Last.fm
 * LinkedIn
 * Mail

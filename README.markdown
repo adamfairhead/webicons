@@ -40,6 +40,7 @@ Icon List So Far
 * iCloud
 * Instagram
 * Kickstarter
+* Klout
 * Last.fm
 * LinkedIn
 * Mail

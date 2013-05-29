@@ -125,6 +125,12 @@
 .no-svg .fc-webicon.goodreads.small { background: url("images/fc-webicon-goodreads-s.png"); }
 .svg .fc-webicon.goodreads { background: url("images/fc-webicon-goodreads.svg"); }
 
+/* Google */
+.no-svg .fc-webicon.google { background: url("images/fc-webicon-google-m.png"); }
+.no-svg .fc-webicon.google.large { background: url("images/fc-webicon-google.png"); }
+.no-svg .fc-webicon.google.small { background: url("images/fc-webicon-google-s.png"); }
+.svg .fc-webicon.google { background: url("images/fc-webicon-google.svg"); }
+
 /* Google Play */
 .no-svg .fc-webicon.googleplay { background: url("images/fc-webicon-googleplay-m.png"); }
 .no-svg .fc-webicon.googleplay.large { background: url("images/fc-webicon-googleplay.png"); }
@@ -214,6 +220,12 @@
 .no-svg .fc-webicon.msn.large { background: url("images/fc-webicon-msn.png"); }
 .no-svg .fc-webicon.msn.small { background: url("images/fc-webicon-msn-s.png"); }
 .svg .fc-webicon.msn { background: url("images/fc-webicon-msn.svg"); }
+
+/* OpenId */
+.no-svg .fc-webicon.openid { background: url("images/fc-webicon-openid-m.png"); }
+.no-svg .fc-webicon.openid.large { background: url("images/fc-webicon-openid.png"); }
+.no-svg .fc-webicon.openid.small { background: url("images/fc-webicon-openid-s.png"); }
+.svg .fc-webicon.openid { background: url("images/fc-webicon-openid.svg"); }
 
 /* Picasa */
 .no-svg .fc-webicon.picasa { background: url("images/fc-webicon-picasa-m.png"); }
@@ -370,6 +382,12 @@
 .no-svg .fc-webicon.xing.large { background: url("images/fc-webicon-xing.png"); }
 .no-svg .fc-webicon.xing.small { background: url("images/fc-webicon-xing-s.png"); }
 .svg .fc-webicon.xing { background: url("images/fc-webicon-xing.svg"); }
+
+/* Yahoo! */
+.no-svg .fc-webicon.yahoo { background: url("images/fc-webicon-yahoo-m.png"); }
+.no-svg .fc-webicon.yahoo.large { background: url("images/fc-webicon-yahoo.png"); }
+.no-svg .fc-webicon.yahoo.small { background: url("images/fc-webicon-yahoo-s.png"); }
+.svg .fc-webicon.yahoo { background: url("images/fc-webicon-yahoo.svg"); }
 
 /* Yelp! */
 .no-svg .fc-webicon.yelp { background: url("images/fc-webicon-yelp-m.png"); }

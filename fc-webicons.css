@@ -137,6 +137,12 @@
 .no-svg .fc-webicon.googleplus.small { background: url("images/fc-webicon-googleplus-s.png"); }
 .svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus.svg"); }
 
+/* Hangouts */
+.no-svg .fc-webicon.hangouts { background: url("images/fc-webicon-hangouts-m.png"); }
+.no-svg .fc-webicon.hangouts.large { background: url("images/fc-webicon-hangouts.png"); }
+.no-svg .fc-webicon.hangouts.small { background: url("images/fc-webicon-hangouts-s.png"); }
+.svg .fc-webicon.hangouts { background: url("images/fc-webicon-hangouts.svg"); }
+
 /* HTML5 */
 .no-svg .fc-webicon.html5 { background: url("images/fc-webicon-html5-m.png"); }
 .no-svg .fc-webicon.html5.large { background: url("images/fc-webicon-html5.png"); }

@@ -32,10 +32,10 @@ Icon List So Far
 * Foursquare
 * Git
 * GitHub
-* Picasa
 * Goodreads
 * Google Play
 * Google+
+* Hangouts
 * HTML5
 * iCloud
 * Indiegogo
@@ -49,6 +49,7 @@ Icon List So Far
 * Mercurial
 * Mixi
 * MSN
+* Picasa
 * Pinterest
 * PocketApp
 * Quora

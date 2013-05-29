@@ -52,6 +52,7 @@ Icon List So Far
 * Quora
 * Orkut
 * Rdio
+* Reddit
 * RenRen
 * RSS
 * Skitch

@@ -239,6 +239,12 @@
 .no-svg .fc-webicon.rdio.small { background: url("images/fc-webicon-rdio-s.png"); }
 .svg .fc-webicon.rdio { background: url("images/fc-webicon-rdio.svg"); }
 
+/* Reddit */
+.no-svg .fc-webicon.reddit { background: url("images/fc-webicon-reddit-m.png"); }
+.no-svg .fc-webicon.reddit.large { background: url("images/fc-webicon-reddit.png"); }
+.no-svg .fc-webicon.reddit.small { background: url("images/fc-webicon-reddit-s.png"); }
+.svg .fc-webicon.reddit { background: url("images/fc-webicon-reddit.svg"); }
+
 /* Renren */
 .no-svg .fc-webicon.renren { background: url("images/fc-webicon-renren-m.png"); }
 .no-svg .fc-webicon.renren.large { background: url("images/fc-webicon-renren.png"); }

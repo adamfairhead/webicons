@@ -33,6 +33,7 @@ Icon List So Far
 * Git
 * GitHub
 * Goodreads
+* Google
 * Google Play
 * Google+
 * Hangouts
@@ -49,11 +50,12 @@ Icon List So Far
 * Mercurial
 * Mixi
 * MSN
+* OpenID
+* Orkut
 * Picasa
 * Pinterest
 * PocketApp
 * Quora
-* Orkut
 * Rdio
 * Reddit
 * RenRen
@@ -74,6 +76,7 @@ Icon List So Far
 * WordPress
 * Sina Weibo
 * Xing
+* Yahoo!
 * Yelp!
 * YouTube
 * YouVersion

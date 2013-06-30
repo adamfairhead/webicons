@@ -40,6 +40,7 @@ Enjoy Webicons!
 * Indiegogo
 * Instagram
 * Instapaper
+* KDE
 * Kickstarter
 * Klout
 * Last.fm

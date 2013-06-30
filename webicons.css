@@ -382,6 +382,18 @@
 .svg .webicon.instapaper {
   background: url("webicons/webicon-instapaper.svg"); }
 
+.no-svg .webicon.kde {
+  background: url("webicons/webicon-kde-m.png"); }
+
+.no-svg .webicon.kde.large {
+  background: url("webicons/webicon-kde"); }
+
+.no-svg .webicon.kde.small {
+  background: url("webicons/webicon-kde-s.png"); }
+
+.svg .webicon.kde {
+  background: url("webicons/webicon-kde.svg"); }
+
 .no-svg .webicon.kickstarter {
   background: url("webicons/webicon-kickstarter-m.png"); }
 

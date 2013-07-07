@@ -21,6 +21,7 @@ Enjoy Webicons!
 * Blogger
 * Coderwall
 * Adobe Creative Cloud
+* Delicious
 * Dribbble
 * Dropbox
 * Evernote

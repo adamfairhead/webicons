@@ -19,6 +19,7 @@ Enjoy Webicons!
 * Béhance
 * BitBucket
 * Blogger
+* Branch
 * Coderwall
 * Adobe Creative Cloud
 * Dribbble
@@ -45,6 +46,7 @@ Enjoy Webicons!
 * Last.fm
 * LinkedIn
 * Mail
+* Medium
 * Mercurial
 * Mixi
 * MSN
@@ -53,6 +55,7 @@ Enjoy Webicons!
 * Picasa
 * Pinterest
 * PocketApp
+* Potluck
 * Quora
 * Rdio
 * Reddit

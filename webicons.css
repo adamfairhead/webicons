@@ -130,6 +130,18 @@
 .svg .webicon.blogger {
   background: url("webicons/webicon-blogger.svg"); }
 
+.no-svg .webicon.branch {
+  background: url("webicons/webicon-branch-m.png"); }
+
+.no-svg .webicon.branch.large {
+  background: url("webicons/webicon-branch.png"); }
+
+.no-svg .webicon.branch.small {
+  background: url("webicons/webicon-branch-s.png"); }
+
+.svg .webicon.branch {
+  background: url("webicons/webicon-branch.svg"); }
+
 .no-svg .webicon.coderwall {
   background: url("webicons/webicon-coderwall-m.png"); }
 
@@ -442,6 +454,18 @@
 .svg .webicon.mail {
   background: url("webicons/webicon-mail.svg"); }
 
+.no-svg .webicon.medium {
+  background: url("webicons/webicon-medium-m.png"); }
+
+.no-svg .webicon.medium.large {
+  background: url("webicons/webicon-medium.png"); }
+
+.no-svg .webicon.medium.small {
+  background: url("webicons/webicon-medium-s.png"); }
+
+.svg .webicon.medium {
+  background: url("webicons/webicon-medium.svg"); }
+
 .no-svg .webicon.mixi {
   background: url("webicons/webicon-mixi-m.png"); }
 
@@ -513,6 +537,18 @@
 
 .svg .webicon.pocketapp {
   background: url("webicons/webicon-pocketapp.svg"); }
+
+.no-svg .webicon.potluck {
+  background: url("webicons/webicon-potluck-m.png"); }
+
+.no-svg .webicon.potluck.large {
+  background: url("webicons/webicon-potluck.png"); }
+
+.no-svg .webicon.potluck.small {
+  background: url("webicons/webicon-potluck-s.png"); }
+
+.svg .webicon.potluck {
+  background: url("webicons/webicon-potluck.svg"); }
 
 .no-svg .webicon.quora {
   background: url("webicons/webicon-quora-m.png"); }

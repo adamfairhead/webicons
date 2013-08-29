@@ -60,6 +60,7 @@ Enjoy Webicons!
 * Rdio
 * Reddit
 * RenRen
+* ReverbNation
 * RSS
 * Skitch
 * Skype

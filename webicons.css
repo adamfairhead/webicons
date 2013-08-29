@@ -634,6 +634,18 @@
 .svg .webicon.rss {
   background: url("webicons/webicon-rss.svg"); }
 
+.no-svg .webicon.reverbnation {
+  background: url("webicons/webicon-reverbnation-m.png"); }
+
+.no-svg .webicon.reverbnation.large {
+  background: url("webicons/webicon-reverbnation.png"); }
+
+.no-svg .webicon.reverbnation.small {
+  background: url("webicons/webicon-reverbnation-s.png"); }
+
+.svg .webicon.reverbnation {
+  background: url("webicons/webicon-reverbnation.svg"); }
+
 .no-svg .webicon.skitch {
   background: url("webicons/webicon-skitch-m.png"); }
 

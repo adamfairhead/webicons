@@ -766,6 +766,18 @@
 .svg .webicon.twitter {
   background: url("webicons/webicon-twitter.svg"); }
 
+.no-svg .webicon.viadeo {
+  background: url("webicons/webicon-viadeo-m.png"); }
+
+.no-svg .webicon.viadeo.large {
+  background: url("webicons/webicon-viadeo.png"); }
+
+.no-svg .webicon.viadeo.small {
+  background: url("webicons/webicon-viadeo-s.png"); }
+
+.svg .webicon.viadeo {
+  background: url("webicons/webicon-viadeo.svg"); }
+
 .no-svg .webicon.vimeo {
   background: url("webicons/webicon-vimeo-m.png"); }
 

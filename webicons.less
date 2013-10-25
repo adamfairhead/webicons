@@ -11,7 +11,7 @@
 // Specify the path to the webicons directory here. Include trailing slash.
 @webicons-url: "webicons/";
 
-.loop-strings(@list, @index: 1) when (isstring(extract(@list, @index))) {
+.webicons-loop(@list, @index: 1) when (isstring(extract(@list, @index))) {
   @webicons-icon: extract(@list, @index);
   
   .no-svg .webicon.@{webicons-icon}       { background: url("@{webicons-url}webicon-@{webicons-icon}-m.png"); }
@@ -19,6 +19,6 @@
   .no-svg .webicon.@{webicons-icon}.small { background: url("@{webicons-url}webicon-@{webicons-icon}-s.png"); }
   .svg    .webicon.@{webicons-icon}       { background: url("@{webicons-url}webicon-@{webicons-icon}.svg"); }
 
-  .loop-strings(@list, (@index + 1));
+  .webicons-loop(@list, (@index + 1));
 }
-.loop-strings(@webicons-icons);
+.webicons-loop(@webicons-icons);

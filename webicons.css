@@ -34,6 +34,26 @@
   -webkit-border-radius: 6px;
   border-radius: 6px; }
 
+/* restore webicons accessibility for print */
+@media print {
+  * {
+      background: transparent !important;
+      color: #000 !important;
+      -moz-box-shadow: none !important;
+      -webkit-box-shadow: none !important;
+      box-shadow: none !important;
+      text-shadow: none !important;
+  }
+  .webicon {
+    text-indent: 0;
+    width: auto !important;
+    height: auto !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+  }
+}
+
 .no-svg .webicon.f500px {
   background: url("webicons/webicon-f500px-m.png"); }
 

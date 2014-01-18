@@ -198,6 +198,18 @@
 .svg .webicon.dribbble {
   background: url("webicons/webicon-dribbble.svg"); }
 
+.no-svg .webicon.deviantart {
+  background: url("webicons/webicon-deviantart-m.png"); }
+
+.no-svg .webicon.deviantart.large {
+  background: url("webicons/webicon-deviantart.png"); }
+
+.no-svg .webicon.deviantart.small {
+  background: url("webicons/webicon-deviantart-s.png"); }
+
+.svg .webicon.deviantart {
+  background: url("webicons/webicon-deviantart.svg"); }
+
 .no-svg .webicon.dropbox {
   background: url("webicons/webicon-dropbox-m.png"); }
 

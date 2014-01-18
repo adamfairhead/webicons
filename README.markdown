@@ -22,6 +22,7 @@ Enjoy Webicons!
 * Branch
 * Coderwall
 * Adobe Creative Cloud
+* DeviantArt
 * Dribbble
 * Dropbox
 * Evernote
@@ -73,6 +74,7 @@ Enjoy Webicons!
 * Tumblr
 * Twitter
 * Viadeo
+* Vine
 * Vimeo
 * Windows
 * WordPress

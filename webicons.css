@@ -810,6 +810,18 @@
 .svg .webicon.viadeo {
   background: url("webicons/webicon-viadeo.svg"); }
 
+.no-svg .webicon.vine {
+  background: url("webicons/webicon-vine-m.png"); }
+
+.no-svg .webicon.vine.large {
+  background: url("webicons/webicon-vine.png"); }
+
+.no-svg .webicon.vine.small {
+  background: url("webicons/webicon-vine-s.png"); }
+
+.svg .webicon.vine {
+  background: url("webicons/webicon-vine.svg"); }
+
 .no-svg .webicon.vimeo {
   background: url("webicons/webicon-vimeo-m.png"); }
 

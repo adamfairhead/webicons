@@ -69,6 +69,7 @@ Enjoy Webicons!
 * StackOverflow
 * StumbleUpon!
 * SVN
+* Svtle
 * Tent
 * Trip Advisor
 * Tumblr

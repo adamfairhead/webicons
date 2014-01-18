@@ -72,6 +72,7 @@ Enjoy Webicons!
 * Trip Advisor
 * Tumblr
 * Twitter
+* Viadeo
 * Vimeo
 * Windows
 * WordPress

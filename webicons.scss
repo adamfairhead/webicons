@@ -5,7 +5,7 @@
 .webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
 .webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
 
-/* restore webicons accessibility for print */
+// restore webicons accessibility for print
 @media print {
   * {background: transparent !important; color: #000 !important; -moz-box-shadow: none !important; -webkit-box-shadow: none !important; box-shadow: none !important; text-shadow: none !important;}
   .webicon {text-indent: 0; width: auto !important; height: auto !important; -moz-border-radius: 0 !important; -webkit-border-radius: 0 !important; border-radius: 0 !important;}

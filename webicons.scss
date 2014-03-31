@@ -18,8 +18,8 @@ $webicons-icons: f500px aboutme adn android apple behance bitbucket blogger bran
 $webicons-url: "webicons/" !default;
 
 @each $webicons-icon in $webicons-icons {
-  .no-svg .webicon.#{$webicons-icon}       { background: url("#{$webicons-url}webicon-#{$webicons-icon}-m.png"); }
-  .no-svg .webicon.#{$webicons-icon}.large { background: url("#{$webicons-url}webicon-#{$webicons-icon}.png"); }
-  .no-svg .webicon.#{$webicons-icon}.small { background: url("#{$webicons-url}webicon-#{$webicons-icon}-s.png"); }
-  .svg    .webicon.#{$webicons-icon}       { background: url("#{$webicons-url}webicon-#{$webicons-icon}.svg"); }
+  .no-svg .webicon.#{$webicons-icon}       { background-image: url("#{$webicons-url}webicon-#{$webicons-icon}-m.png"); }
+  .no-svg .webicon.#{$webicons-icon}.large { background-image: url("#{$webicons-url}webicon-#{$webicons-icon}.png"); }
+  .no-svg .webicon.#{$webicons-icon}.small { background-image: url("#{$webicons-url}webicon-#{$webicons-icon}-s.png"); }
+  .svg    .webicon.#{$webicons-icon}       { background-image: url("#{$webicons-url}webicon-#{$webicons-icon}.svg"); }
 }

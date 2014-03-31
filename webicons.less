@@ -14,10 +14,10 @@
 .webicons-loop(@list, @index: 1) when (isstring(extract(@list, @index))) {
   @webicons-icon: extract(@list, @index);
   
-  .no-svg .webicon.@{webicons-icon}       { background: url("@{webicons-url}webicon-@{webicons-icon}-m.png"); }
-  .no-svg .webicon.@{webicons-icon}.large { background: url("@{webicons-url}webicon-@{webicons-icon}.png"); }
-  .no-svg .webicon.@{webicons-icon}.small { background: url("@{webicons-url}webicon-@{webicons-icon}-s.png"); }
-  .svg    .webicon.@{webicons-icon}       { background: url("@{webicons-url}webicon-@{webicons-icon}.svg"); }
+  .no-svg .webicon.@{webicons-icon}       { background-image: url("@{webicons-url}webicon-@{webicons-icon}-m.png"); }
+  .no-svg .webicon.@{webicons-icon}.large { background-image: url("@{webicons-url}webicon-@{webicons-icon}.png"); }
+  .no-svg .webicon.@{webicons-icon}.small { background-image: url("@{webicons-url}webicon-@{webicons-icon}-s.png"); }
+  .svg    .webicon.@{webicons-icon}       { background-image: url("@{webicons-url}webicon-@{webicons-icon}.svg"); }
 
   .webicons-loop(@list, (@index + 1));
 }

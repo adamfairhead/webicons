@@ -186,6 +186,18 @@
 .svg .webicon.creativecloud {
   background: url("webicons/webicon-creativecloud.svg"); }
 
+.no-svg .webicon.delicious {
+  background: url("webicons/webicon-delicious-m.png"); }
+
+.no-svg .webicon.delicious.large {
+  background: url("webicons/webicon-delicious.png"); }
+
+.no-svg .webicon.delicious.small {
+  background: url("webicons/webicon-delicious-s.png"); }
+
+.svg .webicon.delicious {
+  background: url("webicons/webicon-delicious.svg"); }
+
 .no-svg .webicon.dribbble {
   background: url("webicons/webicon-dribbble-m.png"); }
 

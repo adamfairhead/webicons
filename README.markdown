@@ -23,6 +23,7 @@ Enjoy Webicons!
 * Coderwall
 * Adobe Creative Cloud
 * DeviantArt
+* Delicious
 * Dribbble
 * Dropbox
 * Evernote
